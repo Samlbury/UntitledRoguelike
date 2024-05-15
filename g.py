@@ -17,3 +17,4 @@ world: tcod.ecs.Registry
 """The active ECS regristy and current session"""
 
 states: list[State] = []
+"""A list of the active states"""
